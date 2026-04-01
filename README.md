@@ -1,16 +1,17 @@
-## Hi there 👋
+# Techsavers
 
-<!--
-**Techsavers-IT/Techsavers-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Techsavers is a Brisbane-based company in Australia, dedicated to providing comprehensive technology solutions for individuals and businesses.
 
-Here are some ideas to get you started:
+## 🚀 What we do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our main strength is **technical support**, offering fast diagnostics and reliable repairs for laptops, phones, and other devices.
+
+We also specialize in:
+
+- 🔧 Technical Support  
+- 🌐 Network Support & Setup  
+- 💻 Web Development  
+- 📊 Data & Software Solutions  
+
+## 📍 Location
+Brisbane, Australia
