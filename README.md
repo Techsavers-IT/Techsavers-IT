@@ -1,12 +1,12 @@
 # Techsavers
 
-Techsavers is a Brisbane-based company in Australia, dedicated to providing comprehensive technology solutions for individuals and businesses.
+Techsavers is a Brisbane-based company in Australia, dedicated to providing a wide range of technology solutions for individuals and businesses.
 
 ## 🚀 What we do
 
-Our main strength is **technical support**, offering fast diagnostics and reliable repairs for laptops, phones, and other devices.
+We offer solutions across various areas of technology, helping our clients improve, maintain, and optimize their systems and devices.
 
-We also specialize in:
+Our services include:
 
 - 🔧 Technical Support  
 - 🌐 Network Support & Setup  
